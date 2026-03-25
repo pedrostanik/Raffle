@@ -31,9 +31,9 @@ public class RifaApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) {
-
-		Main main = new Main(menuLayoutService);
-		main.execute();
+//
+//		Main main = new Main(menuLayoutService);
+//		main.execute();
 
 	}
 
